@@ -106,7 +106,7 @@ function main() {
 main
 TNAME2="KOJA"
 TNAME="""KOJA"""
-echo -e "  ${c6}${TNAME}"
+echo -e "  ${c6}${TNAME}" | lolcat
 echo -e "  ${codename}${c5}@${c0}${client_base}"
 echo -e "  ${c1}phone${c0}  ${model}"
 echo -e "  ${c2}os${c0}     ${os}"
